@@ -1,0 +1,10 @@
+{
+  "name": "username",
+  "password": "password",
+  "cmd": "ls -hl /var/log/",
+  "ip": [
+    "127.0.0.1",
+    "127.0.0.1"
+  ]
+
+}
